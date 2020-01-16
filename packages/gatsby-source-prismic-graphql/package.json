@@ -70,5 +70,8 @@
     "graphql",
     "preview",
     "prismic"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
